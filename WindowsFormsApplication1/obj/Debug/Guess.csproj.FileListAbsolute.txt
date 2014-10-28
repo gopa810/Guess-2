@@ -1,0 +1,10 @@
+C:\Telfort\MyTools\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Telfort\MyTools\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Telfort\MyTools\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Telfort\MyTools\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GuessApp.GuessCalendarView.resources
+C:\Telfort\MyTools\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GuessApp.MainForm.resources
+C:\Telfort\MyTools\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GuessApp.Properties.Resources.resources
+C:\Telfort\MyTools\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Guess.csproj.GenerateResource.Cache
+C:\Telfort\MyTools\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Telfort\MyTools\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Telfort\MyTools\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\GuessApp.DayDialog.resources
